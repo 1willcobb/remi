@@ -34,6 +34,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Scripts />
         <Analytics />
       </body>
+      <p>hey</p>
     </html>
   );
 }
